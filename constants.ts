@@ -2,7 +2,7 @@
 import { DataStore, Language } from './types';
 
 // Using a placeholder image so the app looks good immediately without upload
-export const PROFILE_IMAGE = 'files/Profile Picture.jpg';
+export const PROFILE_IMAGE = '/files/Profile Picture.jpg';
 export const PROFILE_IMAGE_SIZE = 'w-40 h-40 md:w-52 md:h-52'; // 调小尺寸
 export const PROFILE_IMAGE_FILTER = ''; 
 
@@ -145,7 +145,7 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
         period: "May 2024 – Jun 2024",
         description: "Engineered an LLM-Agent Collaboration System (GPT-4o + RAG) to automate daily market analysis reports. Built a proprietary A-share macro integrated data corpus and applied FinBERT for sentiment analysis.",
         tags: ["LLM", "Python", "RAG", "FinBERT"],
-        pdfPath: 'files/UBS 挑战赛生成系统介绍.pdf'
+        pdfPath: '/files/UBS 挑战赛生成系统介绍.pdf'
       },
       {
         title: "ETF Flow-based Sector Rotation",
@@ -153,7 +153,7 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
         period: "Sep 2024 – Jan 2025",
         description: "Constructed a flow-based sector rotation strategy using signals extracted from 28 industry ETFs. Backtesting showed contrarian predictive power under extreme flows with a >20% annualized return.",
         tags: ["Quant Strategy", "Backtesting", "ETF", "Python"],
-        pdfPath: 'files/ETF Flow-based Sector Rotation Strategy.pdf'
+        pdfPath: '/files/ETF Flow-based Sector Rotation Strategy.pdf'
       },
       {
         title: "Macro Risk NLP Identification System",
@@ -161,7 +161,7 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
         period: "May 2025 – Jun 2025",
         description: "Built a web crawler collecting 17K financial news articles. Fine-tuned Chinese-RoBERTa-wwm-ext & FinBERT-Tone-Chinese models for real-time sentiment quantification across ten macro risk labels. Designed composite risk factors and imitated Barra-style exposure regression; developed interactive dashboard for risk identification and sentiment analytics.",
         tags: ["NLP", "Deep Learning", "Web Crawling", "Dashboard"],
-        pdfPath: 'files/宏观风险 NLP 系统.pdf'
+        pdfPath: '/files/宏观风险 NLP 系统.pdf'
       },
       {
         title: "The Moderating Role of Incremental Information in Earnings Conference Calls on PEAD",
@@ -343,7 +343,7 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
         period: "2024年5月 – 2024年6月",
         description: "设计LLM-Agent协同系统（GPT-4o + RAG）自动生成每日市场分析报告。构建A股宏观综合数据库，应用FinBERT进行非结构化文本的情绪量化分析。",
         tags: ["大语言模型", "Python", "RAG", "FinBERT"],
-        pdfPath: "files/UBS 挑战赛生成系统介绍.pdf"
+        pdfPath: "/files/UBS 挑战赛生成系统介绍.pdf"
       },
       {
         title: "基于ETF资金流的行业轮动策略",
