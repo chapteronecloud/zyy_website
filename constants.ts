@@ -144,24 +144,21 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
         role: "Team Leader",
         period: "May 2024 – Jun 2024",
         description: "Engineered an LLM-Agent Collaboration System (GPT-4o + RAG) to automate daily market analysis reports. Built a proprietary A-share macro integrated data corpus and applied FinBERT for sentiment analysis.",
-        tags: ["LLM", "Python", "RAG", "FinBERT"],
-        pdfPath: 'https://raw.githubusercontent.com/chapteronecloud/zyywebsite/main/files/UBS 挑战赛生成系统介绍.pdf'
+        tags: ["LLM", "Python", "RAG", "FinBERT"]
       },
       {
         title: "ETF Flow-based Sector Rotation",
         role: "Huatai Securities",
         period: "Sep 2024 – Jan 2025",
         description: "Constructed a flow-based sector rotation strategy using signals extracted from 28 industry ETFs. Backtesting showed contrarian predictive power under extreme flows with a >20% annualized return.",
-        tags: ["Quant Strategy", "Backtesting", "ETF", "Python"],
-        pdfPath: 'https://raw.githubusercontent.com/chapteronecloud/zyywebsite/main/files/ETF Flow-based Sector Rotation Strategy.pdf'
+        tags: ["Quant Strategy", "Backtesting", "ETF", "Python"]
       },
       {
         title: "Macro Risk NLP Identification System",
         role: "Core member",
         period: "May 2025 – Jun 2025",
         description: "Built a web crawler collecting 17K financial news articles. Fine-tuned Chinese-RoBERTa-wwm-ext & FinBERT-Tone-Chinese models for real-time sentiment quantification across ten macro risk labels. Designed composite risk factors and imitated Barra-style exposure regression; developed interactive dashboard for risk identification and sentiment analytics.",
-        tags: ["NLP", "Deep Learning", "Web Crawling", "Dashboard"],
-        pdfPath: 'https://raw.githubusercontent.com/chapteronecloud/zyywebsite/main/files/宏观风险 NLP 系统.pdf'
+        tags: ["NLP", "Deep Learning", "Web Crawling", "Dashboard"]
       },
       {
         title: "The Moderating Role of Incremental Information in Earnings Conference Calls on PEAD",
@@ -342,24 +339,21 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
         role: "队长",
         period: "2024年5月 – 2024年6月",
         description: "设计LLM-Agent协同系统（GPT-4o + RAG）自动生成每日市场分析报告。构建A股宏观综合数据库，应用FinBERT进行非结构化文本的情绪量化分析。",
-        tags: ["大语言模型", "Python", "RAG", "FinBERT"],
-        pdfPath: "https://raw.githubusercontent.com/chapteronecloud/zyywebsite/main/files/UBS 挑战赛生成系统介绍.pdf"
+        tags: ["大语言模型", "Python", "RAG", "FinBERT"]
       },
       {
         title: "基于ETF资金流的行业轮动策略",
         role: "华泰证券项目",
         period: "2024年9月 – 2025年1月",
         description: "提取28个行业ETF资金流信号，结合行业分位数构建多空组合。回测显示策略在极端资金流下具有显著反向预测力，年化收益超20%，夏普比率>1。",
-        tags: ["量化策略", "回测", "ETF", "Python"],
-        pdfPath: "files/ETF Flow-based Sector Rotation Strategy.pdf"
+        tags: ["量化策略", "回测", "ETF", "Python"]
       },
       {
         title: "宏观风险NLP识别系统",
         role: "核心成员",
         period: "2025年5月 – 2025年6月",
         description: "搭建爬虫采集1.7万条财经新闻，微调Chinese-RoBERTa-wwm-ext与FinBERT-Tone-Chinese模型，实现十个宏观风险标签的实时情绪量化。设计复合风险因子并模仿Barra风格暴露度回归；开发交互式仪表盘用于风险识别与情绪分析。",
-        tags: ["NLP", "深度学习", "网络爬虫", "仪表盘"],
-        pdfPath: "files/宏观风险 NLP 系统.pdf"
+        tags: ["NLP", "深度学习", "网络爬虫", "仪表盘"]
       },
       {
         title: "财报电话会议增量信息对PEAD的调节作用研究",
