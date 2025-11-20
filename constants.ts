@@ -148,7 +148,7 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
       },
       {
         title: "Macro Risk NLP Identification System",
-        role: "Core member",
+        role: "Independent Project",
         period: "May 2025 – Jun 2025",
         description: "Built a web crawler collecting 17K financial news articles. Fine-tuned Chinese-RoBERTa-wwm-ext & FinBERT-Tone-Chinese models for real-time sentiment quantification across ten macro risk labels. Designed composite risk factors and imitated Barra-style exposure regression; developed interactive dashboard for risk identification and sentiment analytics.",
         tags: ["NLP", "Deep Learning", "Web Crawling", "Dashboard"]
@@ -162,14 +162,14 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
       },
       {
         title: "Treasury Yield Curve Modeling & Macro Forecasting",
-        role: "Core member",
+        role: "Team Leader",
         period: "Oct 2024 – Dec 2024",
         description: "Replaced classical VAR with Time-Varying Parameter VAR to estimate dynamic predictive power of yield curve on GDP and CPI. Extracted dynamic Nelson-Siegel factors using Python and MATLAB; applied MCMC Bayesian estimation and wavelet phase spectrum analysis to evaluate the time-frequency predictive features of interest rate factors and their interactions with macroeconomic variables.",
         tags: ["Macro Modeling", "Time Series", "Python", "MATLAB"]
       },
       {
         title: "Factor Momentum Replication & Localisation",
-        role: "Core member",
+        role: "Team Leader",
         period: "Oct 2024 – Dec 2024",
         description: "Reproduced the paper's full framework and methodology; processed 47 anomaly factors and engineered principal component factors via Python; developed time-series momentum strategies, validating the relationship between factor momentum and momentum factor and the persistent momentum effects in high-eigenvalue factor dimensions. Developed a proprietary database of 14 A-share factors, conducted China market validation and comparative analysis.",
         tags: ["Quant Strategy", "Factor Analysis", "Python", "Research"]
@@ -336,15 +336,8 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
         tags: ["大语言模型", "Python", "RAG", "FinBERT"]
       },
       {
-        title: "基于ETF资金流的行业轮动策略",
-        role: "华泰证券项目",
-        period: "2024年9月 – 2025年1月",
-        description: "提取28个行业ETF资金流信号，结合行业分位数构建多空组合。回测显示策略在极端资金流下具有显著反向预测力，年化收益超20%，夏普比率>1。",
-        tags: ["量化策略", "回测", "ETF", "Python"]
-      },
-      {
         title: "宏观风险NLP识别系统",
-        role: "核心成员",
+        role: "独立项目",
         period: "2025年5月 – 2025年6月",
         description: "搭建爬虫采集1.7万条财经新闻，微调Chinese-RoBERTa-wwm-ext与FinBERT-Tone-Chinese模型，实现十个宏观风险标签的实时情绪量化。设计复合风险因子并模仿Barra风格暴露度回归；开发交互式仪表盘用于风险识别与情绪分析。",
         tags: ["NLP", "深度学习", "网络爬虫", "仪表盘"]
@@ -358,14 +351,14 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
       },
       {
         title: "国债收益率曲线建模与宏观预测",
-        role: "核心成员",
+        role: "队长",
         period: "2024年10月 – 2024年12月",
         description: "用时变参数VAR替代经典VAR，估计收益率曲线对GDP和CPI的动态预测能力。使用Python和MATLAB提取动态Nelson-Siegel因子；应用MCMC贝叶斯估计与小波相位谱分析，评估利率因子的时频预测特征及其与宏观经济变量的交互作用。",
         tags: ["宏观建模", "时间序列", "Python", "MATLAB"]
       },
       {
         title: "因子动量复制与本土化研究",
-        role: "核心成员",
+        role: "队长",
         period: "2024年10月 – 2024年12月",
         description: "完整复现论文框架与方法论；处理47个异象因子并通过Python构建主成分因子；开发时序动量策略，验证因子动量与动量因子之间的关系以及高特征值因子维度中的持续动量效应。构建包含14个A股因子的专有数据库，进行中国市场验证与对比分析。",
         tags: ["量化策略", "因子分析", "Python", "研究"]
