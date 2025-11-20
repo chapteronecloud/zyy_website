@@ -410,7 +410,7 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
         role: "田野调查员",
         organization: "北京大学 CHARLS 项目",
         period: "2023年7月 - 2023年8月",
-        description: "在云南进行为期2个月的田野调查。运用深度访谈技巧调研老年人健康、医保及收入状况，分析数据并形成医疗养老政策可行性建议。"，
+        description: "在云南进行为期2个月的田野调查。运用深度访谈技巧调研老年人健康、医保及收入状况，分析数据并形成医疗养老政策可行性建议。",
         link: "https://charls.pku.edu.cn/"
       }
     ],
