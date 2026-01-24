@@ -23,7 +23,7 @@ export const CONTENT: DataStore = {
       name: "Yiyun Zhang",
       title: "Quantitative Finance Student",
       subtitle: "Data-Driven Alpha Generation",
-      intro: "Financial Technology student at CUFE combining advanced software engineering (Python, C++, SQL) with financial theory. Experienced in building multi-factor models, NLP-based risk systems, and high-frequency strategy backtesting.",
+      intro: "Incoming NUS-SJTU MQF Candidate | CUFE FinTech Student. Integrating advanced software engineering (Python, C++, SQL) with financial theory, with experience in multi-factor models, NLP-based risk systems, and high-frequency strategy backtesting",
       cta: "Contact Me",
       contactInfo: "**Email:** nhzyy17@163.com\n**Mobile:** 18984324819"
     },
@@ -239,7 +239,7 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
       name: "张译匀",
       title: "金融科技 / 量化金融",
       subtitle: "数据驱动 · 量化赋能",
-      intro: "中央财经大学金融科技专业。具备扎实的Python/C++编程能力与数理统计基础。在多家头部机构积累了多因子模型构建、NLP情感分析、策略回测及归因分析的实战经验。",
+      intro: "中央财经大学金融科技专业，即将入读 NUS-SJTU MQF 项目。 兼具扎实的数理统计基础与 Python/C++ 编程能力，曾在多家机构完成多因子模型构建、NLP 情感分析及策略回测归因等实战项目。",
       cta: "联系我",
       contactInfo: "**邮箱：** nhzyy17@163.com\n**手机：** 18984324819"
     },
