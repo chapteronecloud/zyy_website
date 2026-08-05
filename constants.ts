@@ -210,12 +210,6 @@ Processed large-scale flight data and designed multi-dimensional features for re
         description: "Active member of the Blockchain Club at Central University of Finance and Economics."
       },
       {
-        role: "Student Cadre",
-        organization: "CUFE's Academic Practice Dept",
-        period: "",
-        description: "Served as student cadre in CUFE's Academic Practice Department."
-      },
-      {
         role: "Member",
         organization: "Investment Banking and Consulting Association (ICAC) at CUFE",
         period: "",
@@ -226,6 +220,12 @@ Processed large-scale flight data and designed multi-dimensional features for re
         organization: "Securities Research Association of CUFE",
         period: "",
         description: "Active member of the Securities Research Association at Central University of Finance and Economics."
+      },
+      {
+        role: "Student Cadre",
+        organization: "CUFE's Academic Practice Dept",
+        period: "",
+        description: "Served as student cadre in CUFE's Academic Practice Department."
       }
     ]
   },
@@ -430,12 +430,6 @@ Processed large-scale flight data and designed multi-dimensional features for re
         description: "中央财经大学区块链协会成员。"
       },
       {
-        role: "学生干部",
-        organization: "中央财经大学学术实践部",
-        period: "",
-        description: "担任中央财经大学学术实践部学生干部。"
-      },
-      {
         role: "成员",
         organization: "中央财经大学投行咨询协会 (ICAC)",
         period: "",
@@ -446,6 +440,12 @@ Processed large-scale flight data and designed multi-dimensional features for re
         organization: "中央财经大学证券研究会",
         period: "",
         description: "中央财经大学证券研究会成员。"
+      },
+      {
+        role: "学生干部",
+        organization: "中央财经大学学术实践部",
+        period: "",
+        description: "担任中央财经大学学术实践部学生干部。"
       }
     ]
   }
