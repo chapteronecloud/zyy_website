@@ -23,12 +23,30 @@ export const CONTENT: DataStore = {
       name: "Yiyun Zhang",
       title: "Quantitative Finance Student",
       subtitle: "Data-Driven Alpha Generation",
-      intro: "Incoming NUS-SJTU Msc QF Candidate | CUFE FinTech Student. Integrating advanced software engineering (Python, C++, SQL) with financial theory, with experience in multi-factor models, NLP-based risk systems, and high-frequency strategy backtesting",
+      intro: "NUS-SJTU MSc in Quantitative Finance Student | CUFE FinTech Graduate. Integrating advanced software engineering (Python, C++, SQL) with financial theory, with experience in multi-factor models, NLP-based risk systems, and high-frequency strategy backtesting.",
       cta: "Contact Me",
       contactInfo: "**Email:** nhzyy17@163.com\n**Mobile:** 18984324819"
     },
     resumePath: 'https://raw.githubusercontent.com/chapteronecloud/zyywebsite/main/files/Yiyun_Zhang_CV_EN.pdf',
     experience: [
+      {
+        company: "Innovation Asset Management Co., Ltd.",
+        role: "Quantitative Research Intern",
+        period: "Apr 2026 – Jul 2026",
+        summary: [
+          "Developed fundamental factors end to end, improving portfolio returns by over 4% and reducing turnover by 19.3%.",
+          "Built an automated factor research Agent workflow.",
+          "Replicated and refined 30+ minute-level price-volume factors, achieving an average single-factor IC above 0.05."
+        ],
+        fullDetails: `**Full-Cycle Fundamental Factor Development:**
+Responsible for deep cleaning, preprocessing, and cross-frequency alignment of raw financial data; conducted single-factor backtesting and multi-factor portfolio construction, improving portfolio returns by over 4% and reducing turnover by 19.3% relative to the baseline strategy.
+
+**Factor Research Agent Development:**
+Independently designed and developed a factor research Agent, building an automated workflow covering research report interpretation, factor construction, data processing, and backtesting evaluation.
+
+**Minute-Level Price-Volume Factor Research:**
+Replicated and independently refined 30+ minute-level price-volume factors based on market microstructure and economic rationale, achieving an average single-factor IC above 0.05 and enhancing factor robustness, interpretability, and practical applicability.`
+      },
       {
         company: "Shanghai Redwall Taihe Fund Management",
         role: "Quantitative Modeling Intern",
@@ -95,20 +113,6 @@ Analysed 150k+ port operation records with SQL/Python; built efficiency models t
 
 **Airline Revenue Forecasting:**
 Processed large-scale flight data and designed multi-dimensional features for revenue prediction; applied Python and Excel to find key drivers; produced 12 validated variables adopted in regression models and integrated into revenue management strategies.`
-      },
-      {
-        company: "CITIC Securities",
-        role: "Defense & Military Industry Research Intern",
-        period: "Mar 2024 – May 2024",
-        summary: [
-          "In-depth research on 6 leading defense companies.",
-          "Valuation & Strategic Analysis for Low-Altitude Economy."
-        ],
-        fullDetails: `**Industry & Company Analysis:**
-Conducted in-depth research for six leading defense companies, covering revenue composition, profit drivers, industry segmentation, market structure, capacity expansion, policy developments, etc.
-
-**Valuation & Strategic Analysis:**
-Assisted in the Low-Altitude Economy research, independently analysing two companies, focusing on investment value and corporate strategy separately, and proposed investment and strategic recommendations.`
       }
     ],
     skills: [
@@ -239,12 +243,30 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
       name: "张译匀",
       title: "金融科技 / 量化金融",
       subtitle: "数据驱动 · 量化赋能",
-      intro: "中央财经大学金融科技专业，即将入读 新加坡国立大学 量化金融（上交联培） 项目。 兼具扎实的数理统计基础与 Python/C++ 编程能力，曾在多家机构完成多因子模型构建、NLP 情感分析及策略回测归因等实战项目。",
+      intro: "新加坡国立大学—上海交通大学量化金融硕士在读，中央财经大学金融科技专业本科毕业。兼具扎实的数理统计基础与 Python/C++ 编程能力，曾在多家机构完成多因子模型构建、NLP 情感分析及策略回测归因等实战项目。",
       cta: "联系我",
       contactInfo: "**邮箱：** nhzyy17@163.com\n**手机：** 18984324819"
     },
     resumePath: 'https://raw.githubusercontent.com/chapteronecloud/zyywebsite/main/files/Yiyun_Zhang_CV_CN.pdf', 
     experience: [
+      {
+        company: "因诺资产管理有限公司",
+        role: "量化研究实习生",
+        period: "2026年4月 – 2026年7月",
+        summary: [
+          "全流程开发基本面因子，组合收益提升超过4%，换手率下降19.3%。",
+          "独立开发自动化因子研究 Agent 工作流。",
+          "复现并优化30余个分钟级量价因子，平均单因子 IC 超过0.05。"
+        ],
+        fullDetails: `**基本面因子全流程开发：**
+负责原始财务数据的深度清洗、预处理与跨频率对齐，开展单因子回测和多因子组合构建；相较基准策略，组合收益提升超过 4%，换手率下降 19.3%。
+
+**因子研究 Agent 开发：**
+独立设计并开发因子研究 Agent，搭建覆盖研报解读、因子构建、数据处理和回测评估的自动化工作流。
+
+**分钟级量价因子研究：**
+基于市场微观结构与经济学逻辑，复现并独立改进 30 余个分钟级量价因子，平均单因子 IC 超过 0.05，提升了因子的稳健性、可解释性与实用性。`
+      },
       {
         company: "上海红墙泰和基金管理有限公司",
         role: "量化建模实习生",
@@ -311,20 +333,6 @@ Assisted in the Low-Altitude Economy research, independently analysing two compa
 
 **航班销售额预测前置分析：**
 处理并结构化数万条航班数据，围绕 4 个维度设计特征，构建销售额预测所需的关键变量体系。运用 Python 与 Excel 完成特征工程与可视化分析，识别对销售额影响的关键变量（如节假日敏感度、起飞时间段），辅助后续模型变量筛选与策略优化。`
-      },
-      {
-        company: "中信证券",
-        role: "国防军工行研组实习生",
-        period: "2024年3月 – 2024年5月",
-        summary: [
-          "6家军工龙头深度基本面研究。",
-          "低空经济产业链与估值建模。"
-        ],
-        fullDetails: `**行业与公司分析：**
-参与军工行业多家上市公司调研与财报分析，独立完成 6 家重点企业年报点评，系统梳理营收结构、利润驱动因子、市场格局、产能扩张与政策导向，支撑专题研究。
-
-**估值与战略分析：**
-协助完成“低空经济”专题研究，独立分析两家公司，分别聚焦投资价值和企业战略。系统分析市场空间、竞争格局及产业链动态，构建财务模型，进行盈利预测与横向估值，提出切实可行的投资建议。`
       }
     ],
     projects: [
