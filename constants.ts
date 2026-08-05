@@ -1,8 +1,8 @@
 
 import { DataStore, Language } from './types';
 
-// Using a placeholder image so the app looks good immediately without upload
-export const PROFILE_IMAGE = 'https://raw.githubusercontent.com/chapteronecloud/zyy_website/main/files/Profile%20Picture.jpg';
+// Profile image stored in the repository
+export const PROFILE_IMAGE = 'https://raw.githubusercontent.com/chapteronecloud/zyy_website/main/files/Profile%20Picture.png';
 export const PROFILE_IMAGE_SIZE = 'w-40 h-40 md:w-52 md:h-52'; // 调小尺寸
 export const PROFILE_IMAGE_FILTER = ''; 
 
