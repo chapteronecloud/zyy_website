@@ -25,7 +25,7 @@ export const CONTENT: DataStore = {
       subtitle: "Data-Driven Alpha Generation",
       intro: "NUS-SJTU MSc in Quantitative Finance Student | CUFE FinTech Graduate. Integrating advanced software engineering (Python, C++, SQL) with financial theory, with experience in multi-factor models, NLP-based risk systems, and high-frequency strategy backtesting.",
       cta: "Contact Me",
-      contactInfo: "**Email:** nhzyy17@163.com\n**Mobile:** 18984324819"
+      contactInfo: "**Email:** nhzyy17@163.com / zhangyy@u.nus.edu\n**Mobile:** +86 18984324819 / +65 83412482"
     },
     resumePath: 'https://raw.githubusercontent.com/chapteronecloud/zyywebsite/main/files/Yiyun_Zhang_CV_EN.pdf',
     experience: [
@@ -50,7 +50,7 @@ Replicated and independently refined 30+ minute-level price-volume factors based
       {
         company: "Shanghai Redwall Taihe Fund Management",
         role: "Quantitative Modeling Intern",
-        period: "Nov 2025 – Present",
+        period: "Nov 2025 – Mar 2026",
         summary: [
           "Developing PyTorch time-series deep learning models.",
           "Implementing Listwise Ranking Loss & WPCC."
@@ -245,7 +245,7 @@ Processed large-scale flight data and designed multi-dimensional features for re
       subtitle: "数据驱动 · 量化赋能",
       intro: "新加坡国立大学—上海交通大学量化金融硕士在读，中央财经大学金融科技专业本科毕业。兼具扎实的数理统计基础与 Python/C++ 编程能力，曾在多家机构完成多因子模型构建、NLP 情感分析及策略回测归因等实战项目。",
       cta: "联系我",
-      contactInfo: "**邮箱：** nhzyy17@163.com\n**手机：** 18984324819"
+      contactInfo: "**邮箱：** nhzyy17@163.com / zhangyy@u.nus.edu\n**手机：** +86 18984324819 / +65 83412482"
     },
     resumePath: 'https://raw.githubusercontent.com/chapteronecloud/zyywebsite/main/files/Yiyun_Zhang_CV_CN.pdf', 
     experience: [
@@ -270,7 +270,7 @@ Processed large-scale flight data and designed multi-dimensional features for re
       {
         company: "上海红墙泰和基金管理有限公司",
         role: "量化建模实习生",
-        period: "2025年11月 – 至今",
+        period: "2025年11月 – 2026年3月",
         summary: [
           "开发基于PyTorch的时间序列深度学习模型。",
           "实施Listwise Ranking Loss和WPCC优化排序。"
